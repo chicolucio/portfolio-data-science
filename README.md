@@ -42,6 +42,13 @@ Links:
 
 ## Projects
 
+- Marketing campaign optimization - [code repo](https://github.com/chicolucio/marketing-campaign-optimization) | [article](https://franciscobustamante.com.br/portfolio/2025-marketing-case/)
+
+  > *Abstract*: This project analyzes a retail food company’s direct marketing campaign,
+  which suffered a low response rate (15%) and financial loss. Using data-driven
+  strategies, we optimized future campaigns through customer segmentation, predictive
+  modeling, and profit analysis.
+
 - Customer churn prediction - [code repo](https://github.com/chicolucio/customer-churn-prediction) | [article](https://franciscobustamante.com.br/portfolio/2022-06-project_churn_prediction/)
 
   > *Abstract*: Churn is a measure of how many customers stop using a service or product,
@@ -50,11 +57,11 @@ Links:
   telecom company is used. An action plan for the company is designed based on the
   results.
 
-- Credit card fraud detection - [code repo](https://github.com/chicolucio/credit-card-fraud-detection) | [article](https://franciscobustamante.com.br/portfolio/2022-01-projeto_fraude_cartao_credito/)
+- Credit card fraud detection - [code repo](https://github.com/chicolucio/credit-card-fraud) | [article](https://franciscobustamante.com.br/portfolio/2022-01-project_credit_card_fraud/)
 
   > *Abstract*: In this work, we will use a credit card transactions database to study
   different algorithms, which can be used to classify a given transaction as fraudulent
-  or not. We will see how to deal with unbalanced databases in Scikit Learn.
+  or not. We will see how to deal with unbalanced databases in Machine Learning.
 
 - Global overview of COVID-19 - [code repo](https://github.com/chicolucio/panorama-covid-mundo) | [article](https://franciscobustamante.com.br/portfolio/2022-04-project_covid/)
 
