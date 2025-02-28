@@ -49,7 +49,7 @@ Links:
   strategies, we optimized future campaigns through customer segmentation, predictive
   modeling, and profit analysis.
 
-- Customer churn prediction - [code repo](https://github.com/chicolucio/customer-churn-prediction) | [article](https://franciscobustamante.com.br/portfolio/2022-06-project_churn_prediction/)
+- Customer churn prediction - [code repo](https://github.com/chicolucio/churn-prediction) | [article](https://franciscobustamante.com.br/portfolio/2022-06-project_churn_prediction/)
 
   > *Abstract*: Churn is a measure of how many customers stop using a service or product,
   often evaluated for a specific period of time. In this study, a churn level prediction
