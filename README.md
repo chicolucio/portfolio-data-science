@@ -63,9 +63,19 @@ Links:
   different algorithms, which can be used to classify a given transaction as fraudulent
   or not. We will see how to deal with unbalanced databases in Machine Learning.
 
+- California housing prices - [code repo](https://github.com/chicolucio/california-housing)
+
+  > *Abstract*: This project explores the use of machine learning to predict
+  housing prices in California based on demographic, geographic, and real
+  estate-related features. By combining regression models with geospatial
+  analysis, the goal is to generate accurate, interpretable, and actionable
+  predictions. The model is deployed in a simple interactive Streamlit
+  application that allows users to select a county, set demographic and housing
+  parameters, and get real-time price estimates powered by the trained model.
+
 - Global overview of COVID-19 - [code repo](https://github.com/chicolucio/panorama-covid-mundo) | [article](https://franciscobustamante.com.br/portfolio/2022-04-project_covid/)
 
-  > *Abstract*: It has been 2 years since the emergence of the COVID-19 virus. The
+  > *Abstract*: It has been 4 years since the emergence of the COVID-19 virus. The
   pandemic control measures adopted by governments around the world have significantly
   affected everyone’s routine. Now, most governments are relaxing COVID restrictions
   despite high omicron variant spread. What can we learn from COVID data?
